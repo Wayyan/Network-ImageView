@@ -1,4 +1,4 @@
-package com.devduo.networkimage
+package com.devduo.networkimageview
 
 object NIVConstants {
     const val PREFIX = "https://drive.google.com/uc?export=download&id="
