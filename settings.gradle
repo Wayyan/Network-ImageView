@@ -1,0 +1,3 @@
+include ':NetworkImage'
+include ':app'
+rootProject.name = "NetworkImageView"
