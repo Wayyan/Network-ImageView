@@ -3,6 +3,7 @@ package com.devduo.networkimage
 import android.content.Context
 import com.bumptech.glide.Glide
 
+
 object NIVUtils {
     fun executeLink(link: String): String {
         return if (link.contains(NIVConstants.DRIVE_PATTERN_1)) {
